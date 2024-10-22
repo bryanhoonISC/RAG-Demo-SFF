@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "rag-demo-docker",
+        "ns": "RAG",
+        "active": true
+    }
+}
