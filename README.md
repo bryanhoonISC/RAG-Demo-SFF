@@ -8,6 +8,9 @@
 6. Open IRIS managementportal: http://localhost:8080/csp/sys/UtilHome.csp
 7. Open Streamlit: http://localhost:8051/
 
+# To Import Local PDFs:
+1. Place PDFs in the `volumes\iris` folder before running `docker-compose up -d`
+
 # To Demo:
 (Without RAG)
 1. On Chat Inferface, type "when is the Singapore Fintech Festival held?"
