@@ -22,3 +22,12 @@
 2. Return to the Chat Interface, enter in the same question as above.
 3. Notice the output being more specific that the event is held on 6-8 Nov.
 4. Click on the `OpenAI Operation` > Messages > latest Header number > Click through the Request and Response messages to and fro the `RAG Operation, Prompt Operation, OpenAI Operation` to understand what is happening.
+
+
+
+# Logystics Demo
+Q: How many Airplanes does Logystics have?
+Q: Who is the venture capitalist and how much was invested?![Uploading image.png…]()
+
+
+
